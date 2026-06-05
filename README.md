@@ -16,7 +16,7 @@ What sets me apart: I don't just analyze data—I understand the business contex
 📊 Fan of data storytelling—beautiful and meaningful charts.
 
 🛠️ Stack 
-<https://badgen.net/pypi/python/black> Python | SQL | Power BI | Tableau | Databricks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python | SQL | Power BI | Tableau | Databricks
 
 <br>
 
