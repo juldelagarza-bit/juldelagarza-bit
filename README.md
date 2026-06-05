@@ -38,8 +38,21 @@ Coming soon (tools in progress)
   
   [![See Project ICE](https://img.shields.io/badge/View_project-ICE_Video_Games_Analysis-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juldelagarza-bit/Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe)
 
-🎮 Video Game Analysis — ICE Company
-Objective: To identify the patterns that determine the commercial success of video games in order to optimize marketing campaigns.
+#🎮 Video Game Analysis — ICE Company
+
+###Objective: To identify the patterns that determine the commercial success of video games in order to optimize marketing campaigns.
 Analysis of global video game sales by platform, genre, and region. Identification of the most profitable titles and genres to guide inventory and marketing decisions.
+
+###Methodology 
+1. Data wrangling
+2. Exploratory Data Analysis
+3. Statistical analysis: Calculation of measures of central tendency and dispersion
+4. Hypothesis testing: Comparison of means between groups & users profiles: Analysis by region (NA, EU, JP)
+
+### Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+
+###Conslusions
 
 
