@@ -39,6 +39,6 @@ Coming soon (tools in progress)
 🎮 Video Game Analysis — ICE Company
 Objective: To identify the patterns that determine the commercial success of video games in order to optimize marketing campaigns.
 Analysis of global video game sales by platform, genre, and region. Identification of the most profitable titles and genres to guide inventory and marketing decisions.
-[![Ver Proyecto ICE](https://img.shields.io/badge/Ver_Proyecto-ICE_Video_Games_Analysis-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juldelagarza-bit/Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe)
+[![See Project ICE](https://img.shields.io/badge/Ver_Proyecto-ICE_Video_Games_Analysis-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juldelagarza-bit/Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe)
 
 
