@@ -41,19 +41,19 @@ Coming soon (tools in progress)
 
 # 🎮 Video Game Analysis — ICE Company
 
-## Objective: To identify the patterns that determine the commercial success of video games in order to optimize marketing campaigns.
+### Objective: To identify the patterns that determine the commercial success of video games in order to optimize marketing campaigns.
 Analysis of global video game sales by platform, genre, and region. Identification of the most profitable titles and genres to guide inventory and marketing decisions.
 
-## Methodology 
+### Methodology 
 1. Data wrangling
 2. Exploratory Data Analysis
 3. Statistical analysis: Calculation of measures of central tendency and dispersion
 4. Hypothesis testing: Comparison of means between groups & users profiles: Analysis by region (NA, EU, JP)
 
-## Tools
+### Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 
-## Conslusions
+### Conslusions
 
 
