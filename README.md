@@ -33,12 +33,14 @@ Coming soon (tools in progress)
 
 ## Proyectos 
 
+# ICE
+<img width="1408" height="768" alt="Gemini_Generated_Image_zc475mzc475mzc47" src="https://github.com/user-attachments/assets/0428cd75-b4e0-467b-aac3-fc387a7cc3ba" />
+>
+🎮 Análisis de Videojuegos — Empresa ICE
+Objetivo: Identificar los patrones que determinan el éxito comercial de videojuegos para optimizar campañas de marketing.
+
+Análisis de ventas globales de videojuegos por plataforma, género y región. Identificación de los títulos y géneros más rentables para orientar decisiones de inventario y marketing.
 
 
 
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
