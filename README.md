@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hej, I´am Julian 👋</h1>
+<h1 align="center">Hej, I´am Julian 👋</h1> 
 </div>
 <img width="1584" height="672" alt="github 2 sin titulos " src="https://github.com/user-attachments/assets/a3e8feb7-7d6e-450f-9b47-676f1179c2e2" />
 
@@ -36,7 +36,7 @@ Coming soon (tools in progress)
 # ICE
 <img width="1408" height="768" alt="Gemini_Generated_Image_zc475mzc475mzc47" src="https://github.com/user-attachments/assets/0428cd75-b4e0-467b-aac3-fc387a7cc3ba" />
   
-  [![See Project ICE](https://img.shields.io/badge/View_project-ICE_Video_Games_Analysis-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juldelagarza-bit/Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe)
+ <[![See Project ICE](https://img.shields.io/badge/View_project-ICE_Video_Games_Analysis-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juldelagarza-bit/Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe)>
 
 #🎮 Video Game Analysis — ICE Company
 
