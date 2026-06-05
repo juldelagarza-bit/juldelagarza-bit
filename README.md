@@ -15,9 +15,8 @@ What sets me apart: I don't just analyze data—I understand the business contex
 🔭 Next project: Real estate risks analysis in Yucatán, Mexico.
 📊 Fan of data storytelling—beautiful and meaningful charts.
 
-🛠️ Stack Tecnológico
-Programming lenguages + data & visualización tools
-🐍 + <> Python | SQL | Power BI | Tableau | Databricks
+🛠️ Stack 
+<pypi/python/black> Python | SQL | Power BI | Tableau | Databricks
 
 <br>
 
