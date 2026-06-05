@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hej, I´am <Julian_bit</a> 👋</h1>
+<h1 align="center">Hej, I´am Julian 👋</h1>
 </div>
 <img src="https://i.imgur.com/Wskj8cn.jpeg">
 
