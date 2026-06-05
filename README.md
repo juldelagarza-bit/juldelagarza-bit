@@ -31,16 +31,14 @@ Coming soon (tools in progress)
 ![data bricks](https://img.shields.io/badge/data_bricks-3776AB?style=for-the-badge&logo=databricks&logoColor=red)  ![spark](https://img.shields.io/badge/spark-3776AB?style=for-the-badge&logo=spark&logoColor=blue)  ![Claude](https://img.shields.io/badge/Claude-3776AB?style=for-the-badge&logo=Claude&logoColor=orange)
 <br>
 
-## Proyectos 
+## Projects 
 
 # ICE
 <img width="1408" height="768" alt="Gemini_Generated_Image_zc475mzc475mzc47" src="https://github.com/user-attachments/assets/0428cd75-b4e0-467b-aac3-fc387a7cc3ba" />
->
-🎮 Análisis de Videojuegos — Empresa ICE
-Objetivo: Identificar los patrones que determinan el éxito comercial de videojuegos para optimizar campañas de marketing.
 
-Análisis de ventas globales de videojuegos por plataforma, género y región. Identificación de los títulos y géneros más rentables para orientar decisiones de inventario y marketing.
-
-
+🎮 Video Game Analysis — ICE Company
+Objective: To identify the patterns that determine the commercial success of video games in order to optimize marketing campaigns.
+Analysis of global video game sales by platform, genre, and region. Identification of the most profitable titles and genres to guide inventory and marketing decisions.
+[![Ver Proyecto ICE](https://img.shields.io/badge/Ver_Proyecto-ICE_Video_Games_Analysis-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juldelagarza-bit/Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe)
 
 
