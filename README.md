@@ -40,6 +40,7 @@ Coming soon (tools in progress)
 </div>
 
 🎮 Video Game Analysis — ICE Company
+</div>
 
 ##Objective: To identify the patterns that determine the commercial success of video games in order to optimize marketing campaigns.
 Analysis of global video game sales by platform, genre, and region. Identification of the most profitable titles and genres to guide inventory and marketing decisions.
