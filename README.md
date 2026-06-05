@@ -29,7 +29,7 @@ What sets me apart: I don't just analyze data—I understand the business contex
 
 Coming soon (tools in progress)
 
-![data bricks](https://img.shields.io/badge/data_bricks-3776AB?style=flat&logo=databricks&logoColor=red)  ![spark](https://img.shields.io/badge/spark-3776AB?style=flat&logo=spark&logoColor=blue)  ![Claude AI certificate](https://img.shields.io/badge/Claude_AI_certificate-3776AB?style=flat&logo=Claude AI&logoColor=orange)
+![data bricks](https://img.shields.io/badge/data_bricks-3776AB?style=flat&logo=databricks&logoColor=red)  ![spark](https://img.shields.io/badge/spark-3776AB?style=flat&logo=spark&logoColor=blue)  ![Claude](https://img.shields.io/badge/Claude-3776AB?style=flat&logo=Claude&logoColor=orange)
 <br>
 
 ## Proyectos 
