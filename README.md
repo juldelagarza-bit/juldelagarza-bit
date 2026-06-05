@@ -65,8 +65,12 @@ Most profitable genres: Action, Sports and Shooter generate the highest total sa
 ESRB Rating: Games rated "M" (Mature) and "E" (Everyone) have the best commercial performance
 Seasonality: Launches in Q4 (October-December) show better sales results
 
+Total Sales per Platform
 <img width="970" height="505" alt="Captura de pantalla 2026-06-04 a la(s) 8 50 16 p m" src="https://github.com/user-attachments/assets/31e3fc25-b492-4046-97da-a5f769b1f4a7"/>
+
+Multi-platform game sales variations
+<img width="820" height="602" alt="Captura de pantalla 2026-06-04 a la(s) 8 51 07 p m" src="https://github.com/user-attachments/assets/86971321-9658-40dd-8258-50fd647d02bb" />
 
 ### Conslusions 
 
-
+We can expect a stable outlook for 2017, similar to previous years, unless Nintendo or a new large-scale player enters the industry with some disruptive innovation, whether in genre, platform type, business model, or several unseen factors that significantly change consumer behavior patterns.
