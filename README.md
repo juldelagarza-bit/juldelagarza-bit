@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hej, I´am Julian 👋</h1>
 </div>
-<img src="tu_enlace_de_imagen_aqui" alt="Banner de Ciencia de Datos y Machine Learning" width="100%">
+<img width="1584" height="672" alt="github image" src="https://github.com/user-attachments/assets/9b9ed67a-cad0-404c-83a7-8d80afe454a5" />
 
 ## About Me
 I'm a financial analyst with a background in various ventures and finance, actively transitioning to data analytics. My strength: I combine critical financial thinking and diverse experiences across multiple sectors with modern data tools to generate insights that truly drive business and add value.
