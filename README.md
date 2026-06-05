@@ -28,7 +28,7 @@ What sets me apart: I don't just analyze data—I understand the business contex
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 Coming soon (tools in progress)
-![data bricks](https://img.shields.io/badge/data_bricks-Mi_herramienta-3776AB?style=for-the-badge&logoColor=white)  
+![data bricks](https://img.shields.io/badge/data_bricks3776AB?style=for-the-badge&logoColor=white)  
 
 <br>
 
