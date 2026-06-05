@@ -16,7 +16,7 @@ What sets me apart: I don't just analyze data—I understand the business contex
 📊 Fan of data storytelling—beautiful and meaningful charts.
 
 🛠️ Stack 
-<pypi/python/black> Python | SQL | Power BI | Tableau | Databricks
+<https://badgen.net/pypi/python/black> Python | SQL | Power BI | Tableau | Databricks
 
 <br>
 
