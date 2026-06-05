@@ -8,6 +8,11 @@ Lo que me diferencia: no solo analizo datos — entiendo el contexto de negocio 
 🔭 Próximo proyecto: análisis de riesgos & fraudes inmobiliarios en Yucatán, México 
 📊 Fan del storytelling con datos — los gráficos bellos y significativos.
 
+🛠️ Stack Tecnológico
+Lenguajes y datos
+<img width="500" height="399" alt="Python-Logo-Free-PNG-Image-282x225" src="https://github.com/user-attachments/assets/23038d4e-c623-46a7-a778-8a1114f4b4c6" />
+
+
 🇺🇸 About Me
 I'm a financial analyst with a background in various ventures and finance, actively transitioning to data analytics. My strength: I combine critical financial thinking and diverse experiences across multiple sectors with modern data tools to generate insights that truly drive business and add value.
 
