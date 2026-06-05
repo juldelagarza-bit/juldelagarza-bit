@@ -53,7 +53,20 @@ Analysis of global video game sales by platform, genre, and region. Identificati
 ### Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
+### Findings
 
-### Conslusions
+Platform life cycle: Platforms have a 5-10 year life cycle, with PS4 and Xbox One dominating recent sales (2013-2016)
+Significant regional differences:
+North America prefers Action and Shooter games
+Europe follows similar patterns to NA but with lower volume
+Japan has unique preferences towards RPGs and Nintendo games
+Impact of ratings: Critic ratings show greater correlation with overall sales than user ratings
+Most profitable genres: Action, Sports and Shooter generate the highest total sales and market potential remains the same worldwide
+ESRB Rating: Games rated "M" (Mature) and "E" (Everyone) have the best commercial performance
+Seasonality: Launches in Q4 (October-December) show better sales results
+
+<img width="970" height="505" alt="Captura de pantalla 2026-06-04 a la(s) 8 50 16 p m" src="https://github.com/user-attachments/assets/31e3fc25-b492-4046-97da-a5f769b1f4a7"/>
+
+### Conslusions 
 
 
