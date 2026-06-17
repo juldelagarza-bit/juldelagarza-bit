@@ -34,7 +34,8 @@ Coming soon (tools in progress)
 ## Projects 
 
 # ICE
-<img width="1408" height="768" alt="Gemini_Generated_Image_zc475mzc475mzc47" src="https://github.com/user-attachments/assets/0428cd75-b4e0-467b-aac3-fc387a7cc3ba" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_zc475mzc475mzc47" src="https://github.com/user-attachments/assets/0428cd75-b4e0-467b-aac3-fc387a7cc3ba" (https://github.com/juldelagarza-bit/Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe)
+</div>/>
   
  [![See Project ICE](https://img.shields.io/badge/View_project-ICE_Video_Games_Analysis-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juldelagarza-bit/Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe)
 </div>
