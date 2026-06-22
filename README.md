@@ -1,9 +1,8 @@
-
-<img width="1584" height="672" alt="github image" src="https://github.com/user-attachments/assets/22a56d70-efac-4918-a02a-ed48f5fbcfa0" />
-
 <div align="center">
 <h1 align="center">Hej, I´am Julian 👋</h1> 
 </div>
+
+<img width="1584" height="672" alt="github image" src="https://github.com/user-attachments/assets/22a56d70-efac-4918-a02a-ed48f5fbcfa0" />
 
 ## About Me
 I'm a financial analyst with a background in various ventures and finance, actively transitioning to data analytics. My strength: I combine critical financial thinking and diverse experiences across multiple sectors with modern data tools to generate insights that truly drive business and add value.
