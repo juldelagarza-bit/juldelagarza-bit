@@ -38,7 +38,7 @@ Coming soon (tools in progress)
 </div>
 
 <a href="https://github.com/juldelagarza-bit/Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe">
-   <img src="https://img.shields.io/badge/View%20complete project-0078d4?style=for-the-badge&logo=github&logoColor=white" height="50"/>
+   <img src="https://img.shields.io/badge/View%20complete project-0078d4?style=for-the-badge&logo=github&logoColor=white" height="80"/>
 </a>
 
 # 🎮 Video Game Analysis — ICE Company
