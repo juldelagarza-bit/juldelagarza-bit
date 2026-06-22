@@ -36,7 +36,7 @@ Coming soon (tools in progress)
 # ICE
 <img width="1408" height="768" alt="Gemini_Generated_Image_zc475mzc475mzc47" src="https://github.com/user-attachments/assets/0428cd75-b4e0-467b-aac3-fc387a7cc3ba"/> 
 </div>
-<a href="[TU_URL](https://github.com/juldelagarza-bit/Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe)">
+<a href="https://github.com/juldelagarza-bit/Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe">
   <img src="https://img.shields.io/badge/Ver%20análisis%20completo-1d6fa4?style=for-the-badge&logo=python&logoColor=white" />
 </a>  
 # 🎮 Video Game Analysis — ICE Company
