@@ -81,3 +81,24 @@ Multi-platform game sales variations
 ### Conslusions 
 
 We can expect a stable outlook for 2017, similar to previous years, unless Nintendo or a new large-scale player enters the industry with some disruptive innovation, whether in genre, platform type, business model, or several unseen factors that significantly change consumer behavior patterns.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/0428cd75-b4e0-467b-aac3-fc387a7cc3ba" width="100%" /><br><br>
+      <b>🎮 ICE Video Games Analysis</b><br>
+      <sub>Python · EDA · Hypothesis Testing</sub><br><br>
+      <a href="https://github.com/juldelagarza-bit/Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe">
+        <img src="https://img.shields.io/badge/View%20project-0078d4?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="URL_IMAGEN_ZUBER_QUE_SUBAS" width="100%" /><br><br>
+      <b>🚕 Zuber Chicago Taxi Analysis</b><br>
+      <sub>Python · SQL · Statistical Testing</sub><br><br>
+      <a href="https://github.com/juldelagarza-bit/Zuber-S8-project/blob/main/README.md">
+        <img src="https://img.shields.io/badge/View%20project-0078d4?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+      </a>
+    </td>
+  </tr>
+</table>
