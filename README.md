@@ -35,8 +35,9 @@ Coming soon (tools in progress)
 ## Projects 
 
 # ICE
-<img width="1407" height="768" alt="Gemini_Generated_Image_qxnk0pqxnk0pqxnk" src="https://github.com/user-attachments/assets/c6d7b66e-eae3-4939-974c-c8d7bf505404" />
-"/> 
+
+<img width="1407" height="768" alt="ice_image" src="https://github.com/user-attachments/assets/296d4cb0-8821-4ed6-95d2-19c75b9acb95" />
+
 </div>
 <br><br>
 <div align="center">
