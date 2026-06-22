@@ -1,3 +1,4 @@
+<img width="1407" height="768" alt="Gemini_Generated_Image_qxnk0pqxnk0pqxnk" src="https://github.com/user-attachments/assets/effd07b4-0b15-48b6-94d0-fe735b2d2978" />
 <div align="center">
 <h1 align="center">Hej, I´am Julian 👋</h1> 
 </div>
@@ -34,7 +35,8 @@ Coming soon (tools in progress)
 ## Projects 
 
 # ICE
-<img width="1408" height="768" alt="Gemini_Generated_Image_zc475mzc475mzc47" src="https://github.com/user-attachments/assets/0428cd75-b4e0-467b-aac3-fc387a7cc3ba"/> 
+<img width="1407" height="768" alt="Gemini_Generated_Image_qxnk0pqxnk0pqxnk" src="https://github.com/user-attachments/assets/c6d7b66e-eae3-4939-974c-c8d7bf505404" />
+"/> 
 </div>
 <br><br>
 <div align="center">
