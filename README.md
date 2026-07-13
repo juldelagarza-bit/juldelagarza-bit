@@ -1,3 +1,4 @@
+<img width="1408" height="768" alt="Gemini_Generated_Image_l7dv69l7dv69l7dv" src="https://github.com/user-attachments/assets/9e673a14-3975-4e3d-9812-70247e23b133" />
 <div align="center">
 <h1 align="center">Hej, I´am Julian 👋</h1> 
 </div>
@@ -93,7 +94,7 @@ We can expect a stable outlook for 2017, similar to previous years, unless Ninte
       </a>
     </td>
     <td align="center" width="50%">
-      <img src="URL_IMAGEN_ZUBER_QUE_SUBAS" width="100%" /><br><br>
+       <img width="1408" height="768" alt="Gemini_Generated_Image_l7dv69l7dv69l7dv" src="https://github.com/user-attachments/assets/1402f0fa-8487-4c23-8b4d-9eef3351e421" /> /><br><br>
       <b>🚕 Zuber Chicago Taxi Analysis</b><br>
       <sub>Python · SQL · Statistical Testing</sub><br><br>
       <a href="https://github.com/juldelagarza-bit/Zuber-S8-project/blob/main/README.md">
