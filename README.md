@@ -1,4 +1,3 @@
-<img width="1408" height="768" alt="Gemini_Generated_Image_l7dv69l7dv69l7dv" src="https://github.com/user-attachments/assets/9e673a14-3975-4e3d-9812-70247e23b133" />
 <div align="center">
 <h1 align="center">Hej, I´am Julian 👋</h1> 
 </div>
