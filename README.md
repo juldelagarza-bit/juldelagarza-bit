@@ -93,7 +93,7 @@ We can expect a stable outlook for 2017, similar to previous years, unless Ninte
       </a>
     </td>
     <td align="center" width="33%">
-       <img width="1408" height="768" alt="Gemini_Generated_Image_l7dv69l7dv69l7dv" src="https://github.com/user-attachments/assets/1402f0fa-8487-4c23-8b4d-9eef3351e421" /> /><br><br>
+       <img width="1408" height="768" alt="Gemini_Generated_Image_l7dv69l7dv69l7dv" src="https://github.com/user-attachments/assets/1402f0fa-8487-4c23-8b4d-9eef3351e421" /><br><br>
       <b>🚕 Zuber Chicago Taxi Analysis</b><br>
       <sub>Python · SQL · Statistical Testing</sub><br><br>
       <a href="https://github.com/juldelagarza-bit/Zuber-S8-project/blob/main/README.md">
@@ -103,10 +103,11 @@ We can expect a stable outlook for 2017, similar to previous years, unless Ninte
   </tr>
     </td>
     <td align="center" width="33%">
-       <img src="https://github.com/juldelagarza-bit/Gym-machine-learning-cohort-analysis/raw/main/README_assets/gym_project.jpg" width="100%" /><br><br>
-       <b>🏋️ Gym Churn Prediction</b><br>
-<sub>Python · Machine Learning · Random Forest</sub><br><br>
-<img width="1408" height="768" alt="Gemini_Generated_Image_l7dv69l7dv69l7dv" src="https://github.com/user-attachments/assets/1402f0fa-8487-4c23-8b4d-9eef3351e421" /> /><br><br>
+    <img width="1024" height="559" alt="gym" src="https://github.com/user-attachments/assets/3255bc90-94fd-48bf-96fd-c330c01880c1" /><br><br>
+    <b>🏋️ Gym Churn Prediction</b><br>  
+    <sub>Python · Machine Learning · Random Forest</sub><br><br>
+    <a href="https://github.com/juldelagarza-bit/Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe">
+       <img src="https://img.shields.io/badge/View%20project-0078d4?style=for-the-badge&logo=github&logoColor=white" height="35"/>
        </a>
     </td>
   </tr>
