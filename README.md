@@ -63,4 +63,13 @@ Coming soon (tools in progress)
        </a>
     </td>
   </tr>
+  <td align="center" width="33%">
+    <img width="1024" height="559" alt="ab-test" src="PASTE_YOUR_IMAGE_URL_HERE" /><br><br>
+    <b>🧪 Foody Mobile App A/B Test</b><br>
+    <sub>Python · Statistics · Mann-Whitney U Test</sub><br><br>
+    <a href="https://github.com/juldelagarza-bit/Foody-mobile-app-A-B-test/tree/main">
+       <img width="1600" height="792" alt="ab_test_minimal_cartoon" src="https://github.com/user-attachments/assets/2f5a95f7-0591-4791-b679-f3f922845d4d" />
+       </a>
+    </td>
+  </tr>
 </table>
