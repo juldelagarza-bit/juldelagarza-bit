@@ -36,7 +36,7 @@ Coming soon (tools in progress)
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/0428cd75-b4e0-467b-aac3-fc387a7cc3ba" width="100%" /><br><br>
       <b>🎮 ICE Video Games Analysis</b><br>
       <sub>Python · EDA · Hypothesis Testing</sub><br><br>
@@ -44,7 +44,7 @@ Coming soon (tools in progress)
         <img src="https://img.shields.io/badge/View%20project-0078d4?style=for-the-badge&logo=github&logoColor=white" height="35"/>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
        <img width="1408" height="768" alt="Gemini_Generated_Image_l7dv69l7dv69l7dv" src="https://github.com/user-attachments/assets/1402f0fa-8487-4c23-8b4d-9eef3351e421" /><br><br>
       <b>🚕 Zuber Chicago Taxi Analysis</b><br>
       <sub>Python · SQL · Statistical Testing</sub><br><br>
@@ -54,7 +54,7 @@ Coming soon (tools in progress)
     </td>
   </tr>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
     <img width="1024" height="559" alt="gym" src="https://github.com/user-attachments/assets/3255bc90-94fd-48bf-96fd-c330c01880c1" /><br><br>
     <b>🏋️ Gym Churn Prediction</b><br>  
     <sub>Python · Machine Learning · Random Forest</sub><br><br>
@@ -63,13 +63,13 @@ Coming soon (tools in progress)
        </a>
     </td>
   </tr>
-  <td align="center" width="33%">
-    <img width="1024" height="559" alt="ab-test" src="PASTE_YOUR_IMAGE_URL_HERE" /><br><br>
-    <b>🧪 Foody Mobile App A/B Test</b><br>
-    <sub>Python · Statistics · Mann-Whitney U Test</sub><br><br>
-    <a href="https://github.com/juldelagarza-bit/Foody-mobile-app-A-B-test/tree/main">
-       <img width="1600" height="792" alt="ab_test_minimal_cartoon" src="https://github.com/user-attachments/assets/2f5a95f7-0591-4791-b679-f3f922845d4d" />
-       </a>
+  <td align="center" width="25%">
+  <img width="1600" height="792" alt="ab_test_minimal_cartoon" src="https://github.com/user-attachments/assets/2f5a95f7-0591-4791-b679-f3f922845d4d" />
+  <b>🧪 Foody Mobile App A/B Test</b><br>
+  <sub>Python · Statistics · Mann-Whitney U Test</sub><br><br>
+  <a href="https://github.com/juldelagarza-bit/Foody-mobile-app-A-B-test/tree/main">
+    <img src="https://img.shields.io/badge/View%20project-0078d4?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+      </a> 
     </td>
   </tr>
 </table>
